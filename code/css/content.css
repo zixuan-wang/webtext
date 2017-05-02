@@ -1,0 +1,20 @@
+/*
+* @Author: wang
+* @Date:   2017-05-02 18:09:16
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-05-02 18:16:55
+*/
+h1{
+    font:20px "微软雅黑";
+    color:#686868;
+}
+h2{
+    font:12px "Arial";
+    color:#a9a8a8;
+}
+.font_next{
+    color:#22a3d3;
+}
+p{
+    text-indent:2em;
+}

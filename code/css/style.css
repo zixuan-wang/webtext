@@ -1,0 +1,30 @@
+/*
+* @Author: wang
+* @Date:   2017-05-02 17:18:55
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-05-02 18:08:54
+*/
+body{
+    font:12px "Arial";
+    color:#777;
+    line-height:2em;
+
+}
+
+.menu{
+    color:#b9f605;
+    font-size:14px;
+    font-weight:900;
+}
+.menu a{
+    color:#fff;
+    text-decoration:none;
+
+}
+.menu .special{
+    color:#fdb306;
+}
+a{
+    text-decoration:none;
+    color:#727272;
+}
