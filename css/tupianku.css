@@ -1,0 +1,12 @@
+/*
+* @Author: Marte
+* @Date:   2017-06-04 11:37:23
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-06-04 12:14:43
+*/
+.ima{width:1040px;height:164px;margin:0px auto;}
+.imgage{float: left;}
+.imgage img{width:200px;height:160px;dispaly:inline;margin:0px 3px;border:1px solid #bebebe;}
+.imgage a img{border:1px solid #333;opacity: 0.5;}
+.imgage a:hover img{border:1px solid #333;opacity: 1;}
+.imgage .desc{text-align: center;border:1px solid #aaa;margin:0px 3px}
